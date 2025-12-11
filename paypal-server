@@ -1,0 +1,7 @@
+{
+  "name": "click-earn-withdraws",
+  "version": "1.0.0",
+  "description": "Server API for Click & Earn Withdraws with dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start
